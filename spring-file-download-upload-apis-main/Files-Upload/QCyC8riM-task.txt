@@ -1,0 +1,9 @@
+spring boot project , api which enables us to download a file.
+
+If api is called, file should be downloaded.
+
+use - Mulitpart
+
+Create a Spring Boot project and creat Download api (MulitPart)
+
+create clone -> create war file -> download tomcat -> copy war file in webx folder -> go to cmd and type startup.bat
